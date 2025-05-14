@@ -1,4 +1,4 @@
-# Automated Invoice Tracker & Reminder System (Google Apps Script)
+# Automated Invoice Tracker & Reminder System (Google Apps Script) V.0.7.7
 
 **Version: V.0.7.7 (Automated Dashboard Setup - Stable Core)**
 
