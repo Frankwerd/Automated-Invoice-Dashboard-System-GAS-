@@ -6,10 +6,10 @@
 
 
 // --- CONFIGURATION - USER TO UPDATE THESE VALUES ---
-const SPREADSHEET_ID = '19OYK5w-zC3vn4L2tjuuzpvnr5JeDSgt8CKWlu1oPBuE'; // <<<< PLEASE VERIFY/UPDATE THIS ID
-const MY_PRIMARY_INVOICING_EMAIL = 'libutti123@gmail.com';
-const YOUR_COMPANY_NAME = "Francis"; // <<< PLEASE UPDATE (Used in email templates)
-const YOUR_SUPPORT_EMAIL_OR_CONTACT_INFO = "libutti123@gmail.com"; // <<< PLEASE UPDATE (Used in reminder footer)
+const SPREADSHEET_ID = ''; // <<<< PLEASE VERIFY/UPDATE THIS ID
+const MY_PRIMARY_INVOICING_EMAIL = '';
+const YOUR_COMPANY_NAME = ""; // <<< PLEASE UPDATE (Used in email templates)
+const YOUR_SUPPORT_EMAIL_OR_CONTACT_INFO = ""; // <<< PLEASE UPDATE (Used in reminder footer)
 
 
 const INVOICE_LOG_SHEET_NAME = 'Invoice Log';
